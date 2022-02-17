@@ -1,0 +1,36 @@
+C:\Users\Bassel\source\repos\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\Bassel\source\repos\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\Bassel\source\repos\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\Bassel\source\repos\Clinic Management System\obj\Debug\Clinic Management System.csprojAssemblyReference.cache
+C:\Users\Bassel\source\repos\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\Bassel\source\repos\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\Bassel\source\repos\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\Bassel\source\repos\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\Bassel\source\repos\Clinic Management System\obj\Debug\Clinic Management System.pdb
+C:\Users\Bassel\source\repos\Clinic Management System\obj\Debug\Clinic_Management_System.AdminPanel.resources
+C:\Users\Bassel\source\repos\Clinic Management System\obj\Debug\Clinic_Management_System.DoctorPanel.resources
+C:\Users\Bassel\source\repos\Clinic Management System\obj\Debug\Clinic_Management_System.EditProfile.resources
+C:\Users\Bassel\source\repos\Clinic Management System\obj\Debug\Clinic_Management_System.SecretaryPanel.resources
+C:\Users\Bassel\source\repos\Clinic Management System\obj\Debug\Clinic_Management_System.PatientProfiles.resources
+C:\Users\Bassel\source\repos\Clinic Management System\obj\Debug\Clinic_Management_System.CreateReservation.resources
+C:\Users\Bassel\source\repos\Clinic Management System\obj\Debug\Clinic_Management_System.ViewReservations.resources
+C:\Users\Bassel\source\repos\Clinic Management System\obj\Debug\Clinic_Management_System.EditReservation.resources
+C:\Users\Bassel\source\repos\Clinic Management System\obj\Debug\Clinic_Management_System.Visits.resources
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\bin\Debug\Clinic Management System.exe
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\bin\Debug\Clinic Management System.pdb
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\obj\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\obj\Debug\Clinic_Management_System.AdminPanel.resources
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\obj\Debug\Clinic_Management_System.CreateReservation.resources
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\obj\Debug\Clinic_Management_System.DoctorPanel.resources
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\obj\Debug\Clinic_Management_System.EditProfile.resources
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\obj\Debug\Clinic_Management_System.EditReservation.resources
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\obj\Debug\Clinic_Management_System.PatientProfiles.resources
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\obj\Debug\Clinic_Management_System.SecretaryPanel.resources
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\obj\Debug\Clinic_Management_System.ViewReservations.resources
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\obj\Debug\Clinic_Management_System.Visits.resources
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\obj\Debug\Clinic Management System.exe
+C:\Users\ACER\Desktop\كود المشروع\Clinic Management System\obj\Debug\Clinic Management System.pdb
